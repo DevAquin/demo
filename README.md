@@ -2,4 +2,4 @@
 
   Learnig Github
 
-  1 - i know how to push modifications to GitHub
+  1 - I know how to push modifications to GitHub
